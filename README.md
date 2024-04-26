@@ -37,3 +37,5 @@ Make sure you have the following installed on your machine:
 ## License
 
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
+
+![CS50 Shirtificate](res/shirtificate.pdf)
