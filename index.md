@@ -26,4 +26,4 @@
 - Problem Set 8
 
 **Week 9: Et Cetera**
-- Final Project
+- Final Project : CS50Filter
